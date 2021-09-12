@@ -1,4 +1,4 @@
-module cirello.io/pglock
+module github.com/edward-yakop/pglock
 
 require (
 	github.com/DATA-DOG/go-sqlmock v1.5.0
